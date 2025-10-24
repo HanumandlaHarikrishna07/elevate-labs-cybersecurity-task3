@@ -47,12 +47,12 @@ Here are details on the most critical vulnerabilities found during the scan and 
 Below are screenshots of the scan dashboard and detailed results.
 
 ### Scan Dashboard
-![Nessus Scan Summary]
+![Nessus Scan Summary]Scan dashboard.png
 
 ### Critical Vulnerability
 
-![Critical Vulnerability]
+![Critical Vulnerability]after scanning.png
 
 ### High Vulnerability
 
-![High Vulnerability]
+![High Vulnerability]vulnerabilties.png
